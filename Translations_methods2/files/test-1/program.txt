@@ -1,0 +1,14 @@
+int main {
+/*jjj */
+
+   int abc = 1; // ~7rhhff
+int a;
+if (abc == 0)
+	a *=abc;
+else
+abc -= a;
+
+/*fjf
+*ff
+*/ return 0;
+}

@@ -1,0 +1,5 @@
+int main {
+/*jjj */
+
+   a@bc = 1; //khhjkkj
+}

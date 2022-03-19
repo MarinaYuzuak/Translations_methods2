@@ -1,0 +1,8 @@
+int main {
+/*jjj */
+
+@@
+   abc = 1; // kjjjj
+  int ggg;
+  int kkk;
+}
